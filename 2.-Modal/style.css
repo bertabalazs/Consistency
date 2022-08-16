@@ -1,0 +1,8 @@
+.modal-overlay{
+    visibility: hidden;
+}
+
+.open-modal {
+    visibility: visible;
+    z-index: 10;
+}
