@@ -1,0 +1,43 @@
+*{
+    margin: 15px;
+}
+
+body {
+    display: grid;
+    place-items: center;
+}
+
+#content {
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    background: #f2f4f6;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+textarea{
+    border-radius: 5px;
+}
+
+#eightBall {
+    width: 350px;
+    height: 350px;
+    background:black;
+    color: white;
+    margin: auto;
+    border-radius: 100%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+#eightBall p {
+    color: white;
+}
+
+
+#answer {
+    font-size: 25px;
+
+}
